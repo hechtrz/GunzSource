@@ -9,3 +9,4 @@
 • /help /staff corrigido; <br/>
 • Grade color Admin alterada (vermelho 65%);<br/>
 • Grade VIP(color yellow) adicionado;<br/>
+• VIP Join Full room's adicionado(necessário testar);
