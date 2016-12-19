@@ -6,3 +6,4 @@
 • Shop jump fix added;<br/>
 • Ping color added;<br/>
 • Map name room added; <br/>
+• /help /staff fixed; <br/>
